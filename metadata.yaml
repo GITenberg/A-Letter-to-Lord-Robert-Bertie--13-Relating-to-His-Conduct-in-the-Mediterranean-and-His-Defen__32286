@@ -1,0 +1,34 @@
+_repo: A-Letter-to-Lord-Robert-Bertie--13-Relating-to-His-Conduct-in-the-Mediterranean-and-His-Defen__32286
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2010-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Byng, John, 1704-1757'
+- !lcsh 'Admirals -- Great Britain -- Biography -- Early works to 1800'
+- !lcsh 'Anglo-French War, 1755-1763 -- Naval operations'
+- !lcsh 'Minorca (Spain) -- History -- Invasions'
+- !lcsh 'Bertie, Robert, Lord, 1721-1782'
+- !lcsh 'Great Britain. Royal Navy -- History -- 18th century'
+title: "A Letter to Lord Robert Bertie\r\nRelating to His Conduct in the Mediterranean,\
+  \ and His Defence of Admiral Byng"
+url: http://www.gutenberg.org/ebooks/32286
