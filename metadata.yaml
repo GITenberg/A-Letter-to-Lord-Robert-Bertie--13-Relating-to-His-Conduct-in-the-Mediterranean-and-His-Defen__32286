@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32286#A-Letter-to-Lord-Robert-Bertie--13-Relating-to-His-Conduct-in-the-Mediterranean-and-His-Defen_
 gutenberg_issued: '2010-05-07'
 gutenberg_type: Text
 identifiers:
